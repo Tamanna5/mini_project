@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43494371277",
+    "project_id": "book-25ac5",
+    "storage_bucket": "book-25ac5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43494371277:android:a54e1918b642335dd6de84",
+        "android_client_info": {
+          "package_name": "com.tamanna.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXac-lFzjs43Z0VxvCQsorCp7bcs4G8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
